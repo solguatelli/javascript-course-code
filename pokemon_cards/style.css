@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.sprite-container {
+  display: inline-block;
+  width: 11%;
+  text-align: center;
+}
+
+.sprite-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
